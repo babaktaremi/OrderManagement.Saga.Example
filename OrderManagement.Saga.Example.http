@@ -1,0 +1,6 @@
+@OrderManagement.Saga.Example_HostAddress = http://localhost:5113
+
+GET {{OrderManagement.Saga.Example_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
